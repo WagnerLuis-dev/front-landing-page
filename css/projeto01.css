@@ -38,7 +38,7 @@ html,body{
     /* colocando para respon.. */
     padding: 0 2%;
     height: 557px;
-    background-image: url(../imagens/header_bg.png);
+    background-image: url(../img/header_bg.png);
     background-position: center;
     background-size: cover;
 }
